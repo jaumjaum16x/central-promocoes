@@ -33,7 +33,7 @@ CONFIG = {
     "avisar_menor_preco": True,      # avisa quando a Steam bate o menor preco ja visto
     "gratis_plataformas": [],        # vazio = todas. Ex.: ["PC", "Steam", "Epic", "GOG"]
     "horas_acaba_logo": 48,
-    "telegram_pelo_pc": True,        # False quando a nuvem (GitHub) ja estiver mandando
+    "telegram_pelo_pc": False,       # False quando a nuvem (GitHub) ja estiver mandando
     "telegram_fotos": 3,            # quantos destaques vao como cartao com foto (o resto vai no resumo)
     # "famoso" = muitas avaliacoes na Steam, nota alta no Metacritic ou lancamento recente em alta
     "famoso_avaliacoes": 20000,
